@@ -1,0 +1,14 @@
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\bin\Debug\namespace_systemIO.exe.config
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\bin\Debug\namespace_systemIO.exe
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\bin\Debug\namespace_systemIO.pdb
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\obj\Debug\namespace_systemIO.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\obj\Debug\namespace_systemIO.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\obj\Debug\namespace_systemIO.exe
+C:\Users\ucenik\source\repos\namespace_systemIO\namespace_systemIO\obj\Debug\namespace_systemIO.pdb
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\bin\Debug\namespace_systemIO.exe.config
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\bin\Debug\namespace_systemIO.exe
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\bin\Debug\namespace_systemIO.pdb
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\obj\Debug\namespace_systemIO.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\obj\Debug\namespace_systemIO.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\obj\Debug\namespace_systemIO.exe
+C:\Users\ucenik\source\repos\KlasaDirectory\namespace_systemIO\obj\Debug\namespace_systemIO.pdb
