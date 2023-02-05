@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\bin\Debug\SystemIO_streamPisac.exe.config
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\bin\Debug\SystemIO_streamPisac.exe
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\bin\Debug\SystemIO_streamPisac.pdb
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\obj\Debug\SystemIO_streamPisac.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\obj\Debug\SystemIO_streamPisac.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\obj\Debug\SystemIO_streamPisac.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\obj\Debug\SystemIO_streamPisac.exe
+C:\Users\linar\Documents\programiranje\SystemIO_streamPisac\SystemIO_streamPisac\obj\Debug\SystemIO_streamPisac.pdb

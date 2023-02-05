@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\bin\Debug\SystemIO_klasaFile.exe.config
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\bin\Debug\SystemIO_klasaFile.exe
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\bin\Debug\SystemIO_klasaFile.pdb
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\obj\Debug\SystemIO_klasaFile.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\obj\Debug\SystemIO_klasaFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\obj\Debug\SystemIO_klasaFile.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\obj\Debug\SystemIO_klasaFile.exe
+C:\Users\linar\Documents\programiranje\SystemIO_klasaFile\SystemIO_klasaFile\obj\Debug\SystemIO_klasaFile.pdb
